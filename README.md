@@ -1,4 +1,3 @@
-# Barcode-Scanner
-The project was made for scanning Code 39 barcode
+# 2D line intersection points detector 
 
-Run the program in your IDE and input the path of the code 39 barcode image in the CLI.
+Run the program in your IDE and input the path of the image in the CLI.
